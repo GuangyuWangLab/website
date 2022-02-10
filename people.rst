@@ -21,6 +21,9 @@ Shengyu Li
 
 Postdoc Fellow
 
+Shengyu graduated from a public, national research university with a Ph.D. in Computer Science, with a four-year research and
+development experience in machine learning, natural language processing, and bioinformatics.
+
 Lingqun Ye
 ~~~~~~~~~~~~~~~~~~~~~~
 
