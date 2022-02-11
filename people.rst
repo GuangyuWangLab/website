@@ -36,4 +36,4 @@ Pengzhi Zhang
 
 Research Associate
 
-Pengzhi has a solid background in Physics and worked as research scientist for three years in University of Houston.
+Pengzhi has a solid background in Physics and worked as research scientist for three years in University of Houston. He will investigate the dynamic of cellular states and cell-cell communication.
