@@ -29,9 +29,11 @@ Lingqun Ye
 
 Postdoc Fellow
 
+Lingqun recieved his Ph.D. degree in Bioinformatics at Chinese Academy of Sciences in 2017. He is focused on algrothm and software development. He is co-mentored by Dr. Guangyu Wang and Dr. Qing Yi.
 
 Pengzhi Zhang
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Research Associate
 
+Pengzhi has a solid background in Physics and worked as research scientist for three years in University of Houston.
