@@ -16,6 +16,8 @@ Guangyu Wang
 
 Principle Investigator, Assistant Professor
 
+Dr. Wang's research foucuses on integating multi-omics such scRNA-seq, spatial transcriptomics, and epigenetics to investigate dynamics of cellular states and the regulation mechanism in development and disease condition, using cutting-edge computaional techneqes including deep-learning, machine leaning and Baysian inference.
+
 Shengyu Li
 ~~~~~~~~~~~~~~~~~~~~~~
 
